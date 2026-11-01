@@ -4,7 +4,7 @@
 
 > Human is the star, AI is the amplifier, nature is the stage.
 
-I’m an AI music producer and the founder of **AI Anthems**. I create original songs, cinematic music videos, and software experiences through AI-assisted development—bringing music, visual worlds, and human–AI creativity together.
+I’m an AI music producer and the founder of **AI Anthems**. I create original songs, cinematic music videos, and software experiences through AI-assisted development — bringing music, visual worlds, and human–AI creativity together.
 
 ## AI Anthems · The flagship
 
@@ -18,15 +18,15 @@ I’m an AI music producer and the founder of **AI Anthems**. I create original 
 
 ### SI Anthems
 
-[The soundtrack of the Super Intelligence Age](https://sianthems.com)—songs and cinematic worlds exploring technology, ambition, and imagined futures.
+[The soundtrack of the Super Intelligence Age](https://sianthems.com) — songs and cinematic worlds exploring technology, ambition, and imagined futures.
 
 [![SI Anthems homepage with its star logo, cinematic fire-couture artwork, America Enters a New Age headline, and radio controls](assets/si-anthems.jpg)](https://sianthems.com)
 
 ### Hot Girl Anthems
 
-[Glamour, fantasy fashion, and cinematic music](https://hotgirlanthems.com)—extravagant visual storytelling, character-led anthems, and themed listening experiences.
+[Glamour, fantasy fashion, and cinematic music](https://hotgirlanthems.com) — extravagant visual storytelling, character-led anthems, and themed listening experiences.
 
-[![Hot Girl Anthems homepage with its pink identity, fire-couture fashion scene, Hottest Music on Earth headline, and radio controls](assets/hot-girl-anthems.jpg)](https://hotgirlanthems.com)
+[![Hot Girl Anthems homepage with its pink identity, a woman facing the viewer in fire couture, Hottest Music on Earth headline, and radio controls](assets/hot-girl-anthems.jpg)](https://hotgirlanthems.com)
 
 ## What I’m building
 
